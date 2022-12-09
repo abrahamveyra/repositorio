@@ -17,8 +17,10 @@ body{
  }
 
  h3{
+    position: relative;
     color: white;
     top: 5px;
+    left: 75px;
  }
 
  footer{
